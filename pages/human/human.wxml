@@ -1,0 +1,1 @@
+<button bindtap="test" class="button" hover-class="hover">检测</button>

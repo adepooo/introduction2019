@@ -1,0 +1,29 @@
+.button{
+  margin-top: 30px;
+  width: 80%;
+  background-color: rgb(165, 248, 41);
+  color: white;
+  border-radius: 98rpx;
+  background: bg_red;
+}
+.hover {
+  background:  rgb(219, 77, 20);
+}
+page{
+  background:#ffffff;
+}
+ 
+.continer{
+  width: 100%;
+  height: 350rpx;
+  text-align: center;   /** 水平居中 **/
+}
+
+.switch{
+  margin:20rpx
+}
+
+.text{
+  margin:10rpx
+}
+

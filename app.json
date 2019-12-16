@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/main/main",
+    "pages/inte/inte",
+    "pages/fan/fan",
+    "pages/light/light",
+    "pages/weather/weather",
+    "pages/intelight/intelight",
+    "pages/environment/environment",
+    "pages/human/human"
+  ],
+  "window": {
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "permission":{
+    "scope.userLocation":{
+      "desc":"请点击确定"
+    }
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "iconPath": "pages/images/icon_API.png",
+        "selectedIconPath": "pages/images/icon_API_HL.png",
+        "text": "实用工具"
+      },
+      {
+        "pagePath": "pages/inte/inte",
+        "iconPath": "pages/images/icon_component.png",
+        "selectedIconPath": "pages/images/icon_component_HL.png",
+        "text": "智能设备"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

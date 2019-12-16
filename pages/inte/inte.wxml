@@ -1,0 +1,7 @@
+<button class="btn1" bindtap="intelight">
+<image class="image"  src='../images/intelight.png'></image>
+智能台灯</button>
+
+<button class="btn1" bindtap="light">
+<image class="image"  src='../images/light.png'></image>
+远程关灯</button>

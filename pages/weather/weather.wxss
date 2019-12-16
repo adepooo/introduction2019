@@ -1,0 +1,8 @@
+page{
+  background:#ffffff;
+  
+}
+
+.background{
+  background-image: url(https://thefirst-1300283506.cos.ap-beijing.myqcloud.com/su.jpg)
+}

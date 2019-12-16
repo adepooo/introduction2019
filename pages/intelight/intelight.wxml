@@ -1,0 +1,7 @@
+<button bindtap="send1" disabled="{{disabled}}" hover-class="hover" class="button">智能模式</button>
+<button bindtap="send2" disabled="{{disabled}}" hover-class="hover" class="button" >亮度+</button>
+<button bindtap="send3" disabled="{{disabled}}" hover-class="hover" class="button">亮度-</button>
+<view class="continer">
+<switch class="switch" bindchange="switch"></switch>
+<view class="text">{{light}}</view>
+</view>

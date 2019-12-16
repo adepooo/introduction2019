@@ -1,0 +1,14 @@
+page{
+  background:#ffffff;
+}
+.canvas{
+  width: 100%;
+  height: 400rpx
+}
+#chart1{
+  top: 0rpx
+}
+
+#chart3{
+  top: 20rpx
+}

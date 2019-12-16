@@ -1,0 +1,7 @@
+<view class="continar">
+<image class="img" src="{{img}}"></image></view>
+<view class="center">{{text}}</view>
+<view class="continer">
+<switch class="switch" bindchange="switch"></switch>
+<view class="text">{{light}}</view>
+</view>

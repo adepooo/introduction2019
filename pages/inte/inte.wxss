@@ -1,0 +1,22 @@
+page{
+  background:#ffffff;
+}
+
+.btn1{
+   width: 200rpx;
+  height: 200rpx;
+  margin-top: 20rpx;
+  background-color: white;
+  color: #999999;
+  border-radius: 0rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 30rpx;
+}
+
+.image{
+  width:50rpx;
+  height:50rpx;
+}

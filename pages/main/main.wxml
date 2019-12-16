@@ -1,0 +1,9 @@
+<button class='btn1' bindtap="weather">
+<image src="../images/weather.png" class='image'></image>
+天气预报</button>
+<button class='btn1' bindtap="human">
+<image  class='image'  src='../images/human.png'></image>
+人员检测</button>
+<button class='btn1' bindtap="environment">
+<image class="image"  src='../images/du.png'></image>
+室内环境</button>

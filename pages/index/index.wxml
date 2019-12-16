@@ -1,0 +1,6 @@
+<view class="image_viwe_size">
+<canvas canvas-id="Canvas" style="width: 200px; height: {{canvas_height}}px;display:{{canvas_viwe_display}};"></canvas>
+<image src='{{image_src}}' style="width: 200px; height: {{canvas_height}}px;display:{{image_viwe_display}};"></image>
+</view>
+<button class="welcome-btn" bindtap="UploadImage">选择图片</button>
+<button class="welcome-btn" bindtap="CompareFace">检测</button>
