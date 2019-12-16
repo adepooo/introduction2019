@@ -1,4 +1,3 @@
-<canvas class = "canvas" id="chart1"
-canvas-id="humidity"></canvas>
-<canvas class = "canvas" id="chart3"
-canvas-id="tempe"></canvas>
+<view class="tem">当前寝室温度为：{{tem}}</view>
+<view class="tem">当前寝室湿度为：{{humi}}</view>
+<button class="button" hover-class="hover" bindtap="test">更新</button>
