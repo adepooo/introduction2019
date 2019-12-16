@@ -1,14 +1,18 @@
 page{
   background:#ffffff;
 }
-.canvas{
-  width: 100%;
-  height: 400rpx
+.button{
+  margin-top: 30px;
+  width: 80%;
+  background-color: rgb(165, 248, 41);
+  color: white;
+  border-radius: 98rpx;
+  background: bg_red;
 }
-#chart1{
-  top: 0rpx
+.hover {
+  background:  rgb(219, 77, 20);
 }
-
-#chart3{
-  top: 20rpx
+.tem{
+  text-align: center;
+  font-size:30rpx
 }
